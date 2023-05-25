@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@chakra-ui/icon": "^3.0.15",
+    "@chakra-ui/icons": "^2.0.19",
     "@chakra-ui/react": "^2.6.1",
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
@@ -13,6 +15,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
+    "firebase": "^9.22.0",
     "framer-motion": "^6.2.9",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
